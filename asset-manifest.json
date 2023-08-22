@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/my-contact/static/js/main.fa6942e5.js",
+    "index.html": "/my-contact/index.html",
+    "main.fa6942e5.js.map": "/my-contact/static/js/main.fa6942e5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fa6942e5.js"
+  ]
+}
